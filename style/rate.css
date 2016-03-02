@@ -1,0 +1,7 @@
+.rate{
+    background: url('../img/star1.png') repeat-x;
+    cursor: pointer;
+}
+.rate_check{
+    background: url('../img/star2.png') repeat-x;
+}
